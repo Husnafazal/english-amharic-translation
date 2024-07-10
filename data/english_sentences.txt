@@ -1,0 +1,10 @@
+Hello world
+How are you?
+Good morning
+Thank you
+I love programming
+See you later
+What is your name?
+Have a great day
+Where is the nearest hospital?
+I need help
